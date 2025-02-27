@@ -39,7 +39,7 @@
             margin-bottom: 30px;
         }
         .section h2 {
-            border-bottom: 2px solid #ddd;
+            border-bottom: 2px solid black;
             padding-bottom: 5px;
         }
     </style>
@@ -217,10 +217,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret</code></pre>
     </ol>
 </div>
 
-<div class="section">
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-</div>
+
 
 
 </body>
