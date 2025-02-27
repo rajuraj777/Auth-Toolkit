@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Authentication Toolkit</title>
+<!--     <title>Authentication Toolkit</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -42,7 +42,7 @@
             border-bottom: 2px solid #ddd;
             padding-bottom: 5px;
         }
-    </style>
+    </style> -->
 </head>
 <body>
 
